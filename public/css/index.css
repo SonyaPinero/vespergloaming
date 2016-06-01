@@ -1,57 +1,57 @@
 * {
-	margin: 0;
-	padding: 0;
-	border: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 #top{
-	background-color: black;
-	position: fixed;
-	width: 100%;
-	top: 0px;
-	height: 90px;
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  height: 90px;
 }
 
 #top-container{
-	border-bottom: 10px white solid;
-	height: 75px;
-	width: 100%;
+  border-bottom: 10px white solid;
+  height: 75px;
+  width: 100%;
 }
 
 #top-inner{
-	border-bottom: 5px white solid;
-	height: 60px;
-	width: 100%;
+  border-bottom: 5px white solid;
+  height: 60px;
+  width: 100%;
 }
 
 #bottom{
-	background-color: black;
-	position: fixed;
-	width: 100%;
-	bottom: 0px;
-	height: 90px;
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  height: 90px;
 }
 
 #bottom-container{
-	border-bottom: 5px white solid;
-	height: 25px;
-	width: 100%;
+  border-bottom: 5px white solid;
+  height: 25px;
+  width: 100%;
 }
 
 #bottom-inner{
-	border-bottom: 10px white solid;
-	height: 5px;
-	width: 100%;
+  border-bottom: 10px white solid;
+  height: 5px;
+  width: 100%;
 }
  
 #container{
-	border-right: 10px black solid;
-	height: 100%;
-	width: 30px;
+  border-right: 10px black solid;
+  height: 100%;
+  width: 30px;
 }
 
 #inner{
-	border-right: 5px black solid;
-	height: 100%;
-	width: 15px;
+  border-right: 5px black solid;
+  height: 100%;
+  width: 15px;
 }
