@@ -48,10 +48,22 @@
   border-right: 10px black solid;
   height: 100%;
   width: 30px;
+  display: inline-block;
 }
 
 #inner{
   border-right: 5px black solid;
   height: 100%;
   width: 15px;
+  display: inline-block;
+}
+
+img {
+  width: 55%;
+  display: inline-block;
+  position: absolute;
+  float: right;
+  text-align: center;
+  padding-left: 225px; 
+  padding-top: 85px;
 }
