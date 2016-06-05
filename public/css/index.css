@@ -9,18 +9,18 @@
   position: fixed;
   width: 100%;
   top: 0px;
-  height: 90px;
+  height: 120px;
 }
 
 #top-container{
   border-bottom: 10px white solid;
-  height: 75px;
+  height: 35px;
   width: 100%;
 }
 
 #top-inner{
   border-bottom: 5px white solid;
-  height: 60px;
+  height: 20px;
   width: 100%;
 }
 
@@ -29,7 +29,7 @@
   position: fixed;
   width: 100%;
   bottom: 0px;
-  height: 90px;
+  height: 120px;
 }
 
 #bottom-container{
@@ -65,9 +65,23 @@
   text-align: center;
 }
 
-img {
-  width: 66%;
+#VG {
+  width: 60%;
   display: inline-block;
   margin: 0 auto;
 }
 
+#contact-cursive{
+  margin: 15px auto 0 auto;
+  background: white url("../img/Contact-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 350px 200px;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+  margin: 0 auto;
+}
