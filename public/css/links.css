@@ -1,0 +1,78 @@
+.bottom{
+  display: inline-block;
+  margin: 15px 10px 0 10px;
+}
+
+#contact-cursive{
+  margin: 20px auto 0 auto;
+  background: white url("../img/cursive/Contact-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 350px 200px;
+  padding: 0px 15px 0 15px;
+}
+
+#contact-cursive:hover {
+  margin: 20px auto 0 auto;
+  background: white url("../img/print/Contact.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 450px 300px;
+  padding: 0px 15px 0 15px;
+} 
+
+#scripts-cursive{
+  background: white url("../img/cursive/Scripts-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 275px 250px;
+  padding: 0px 15px 0 15px;
+}
+
+#scripts-cursive:hover{
+  background: white url("../img/print/Scripts.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 450px 300px;
+  padding: 0px 15px 0 15px;
+}
+
+#ec-cursive{
+  background: white url("../img/cursive/EntityCity-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 375px 125px;
+  padding: 0px 15px 0 15px;
+}
+
+#ec-cursive:hover{
+  background: white url("../img/print/EntityCityLink.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 400px 150px;
+  padding: 0px 15px 0 15px;
+}
+
+#stories-cursive{
+  background: white url("../img/cursive/Stories-Cursive.svg") center no-repeat;  
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 325px 175px;
+  padding: 0px 15px 0 15px;
+}
+
+#stories-cursive:hover{
+  background: white url("../img/print/Stories.svg") center no-repeat;  
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 350px 200px;
+  padding: 0px 15px 0 15px;
+}
