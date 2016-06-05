@@ -30,6 +30,7 @@
   width: 100%;
   bottom: 0px;
   height: 120px;
+  text-align: center;
 }
 
 #bottom-container{
@@ -71,6 +72,11 @@
   margin: 0 auto;
 }
 
+.bottom{
+  display: inline-block;
+  margin: 15px 10px 0 10px;
+}
+
 #contact-cursive{
   margin: 15px auto 0 auto;
   background: white url("../img/Contact-Cursive.svg") center no-repeat;
@@ -78,10 +84,34 @@
   width: 150px;
   background-size: cover;
   background-size: 350px 200px;
+  padding: 0px 15px 0 15px;
 }
 
-li {
-  list-style: none;
-  text-align: center;
-  margin: 0 auto;
+#scripts-cursive{
+  background: white url("../img/Scripts-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 300px 275px;
+  padding: 0px 15px 0 15px;
+  margin-top: 10px
 }
+
+#ec-cursive{
+  background: white url("../img/EntityCity-Cursive.svg") center no-repeat;
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 375px 125px;
+  padding: 0px 15px 0 15px;
+}
+
+#stories-cursive{
+  background: white url("../img/Stories-Cursive.svg") center no-repeat;  
+  height: 50px;
+  width: 150px;
+  background-size: cover;
+  background-size: 350px 200px;
+  padding: 0px 15px 0 15px;
+}
+
