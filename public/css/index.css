@@ -92,9 +92,8 @@
   height: 50px;
   width: 150px;
   background-size: cover;
-  background-size: 300px 275px;
+  background-size: 275px 250px;
   padding: 0px 15px 0 15px;
-  margin-top: 10px
 }
 
 #ec-cursive{
@@ -111,7 +110,7 @@
   height: 50px;
   width: 150px;
   background-size: cover;
-  background-size: 350px 200px;
+  background-size: 325px 175px;
   padding: 0px 15px 0 15px;
 }
 
