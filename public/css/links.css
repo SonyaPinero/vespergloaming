@@ -8,7 +8,7 @@
 }
 
 #contact-cursive{
-  background: white url("../img/cursive/Contact-Cursive.svg") center no-repeat;
+  background: white url("../svg/cursive/Contact-Cursive.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -17,7 +17,7 @@
 }
 
 #contact-cursive:hover {
-  background: white url("../img/print/Contact.svg") center no-repeat;
+  background: white url("../svg/print/Contact.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -26,7 +26,7 @@
 } 
 
 #scripts-cursive{
-  background: white url("../img/cursive/Scripts-Cursive.svg") center no-repeat;
+  background: white url("../svg/cursive/Scripts-Cursive.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -35,7 +35,7 @@
 }
 
 #scripts-cursive:hover{
-  background: white url("../img/print/Scripts.svg") center no-repeat;
+  background: white url("../svg/print/Scripts.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -44,7 +44,7 @@
 }
 
 #ec-cursive{
-  background: white url("../img/cursive/EntityCity-Cursive.svg") center no-repeat;
+  background: white url("../svg/cursive/EntityCity-Cursive.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -53,7 +53,7 @@
 }
 
 #ec-cursive:hover{
-  background: white url("../img/print/EntityCityLink.svg") center no-repeat;
+  background: white url("../svg/print/EntityCityLink.svg") center no-repeat;
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -62,7 +62,7 @@
 }
 
 #stories-cursive{
-  background: white url("../img/cursive/Stories-Cursive.svg") center no-repeat;  
+  background: white url("../svg/cursive/Stories-Cursive.svg") center no-repeat;  
   height: 50px;
   width: 150px;
   background-size: cover;
@@ -71,7 +71,7 @@
 }
 
 #stories-cursive:hover{
-  background: white url("../img/print/Stories.svg") center no-repeat;  
+  background: white url("../svg/print/Stories.svg") center no-repeat;  
   height: 50px;
   width: 150px;
   background-size: cover;
