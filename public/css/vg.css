@@ -1,0 +1,26 @@
+#V {
+  fill: white;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+  animation: dash 5s linear forwards;
+}
+
+#esper{
+  fill: white;
+  stroke-dasharray: 10000;
+  stroke-dashoffset: 10000;
+  animation: dash 10s linear forwards
+}
+
+#Gloaming {
+   fill: white;
+  stroke-dasharray: 20000;
+  stroke-dashoffset: 20000;
+  animation: dash 10s linear forwards
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
