@@ -63,12 +63,11 @@
 }
 
 #main {
-  margin: 90px 0;
+  margin: -120px 0;
   text-align: center;
 }
 
 object {
-  width: 60%;
+  width: 90%;
   display: inline-block;
-  margin: 0 auto;
 }
