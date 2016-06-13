@@ -70,4 +70,5 @@
 object {
   width: 90%;
   display: inline-block;
+  margin: 0 auto;
 }
