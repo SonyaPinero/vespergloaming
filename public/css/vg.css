@@ -20,10 +20,8 @@
 }
 
 #dot{
-  stroke-dasharray: 1000;
-  stroke-dashoffset: 1000;
-  animation: dash 1s linear alternate forwards;
   -webkit-animation-delay: 8.5s;
+  fill: #D32A27;
 }
 
 
