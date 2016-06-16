@@ -20,8 +20,9 @@
 }
 
 #dot{
-  -webkit-animation-delay: 8.5s;
-  fill: #D32A27;
+  fill: none;
+  animation: dot 1s linear alternate forwards;
+  -webkit-animation-delay: 8s;
 }
 
 
@@ -43,3 +44,9 @@
   }
 }
 
+@keyframes dot {
+  100% {
+    fill: #D32A27;
+    stroke:#000000;
+  }
+}
