@@ -1,0 +1,45 @@
+#V {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 3s linear alternate forwards;
+}
+
+
+#esper{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 3s linear alternate forwards;
+  -webkit-animation-delay: 1s;
+}
+
+#Gloaming {
+  stroke-dasharray: 2250;
+  stroke-dashoffset: 2250;
+  animation: draw 5s linear alternate forwards;
+  -webkit-animation-delay: 4s;
+}
+
+#dot{
+  -webkit-animation-delay: 8.5s;
+  fill: #D32A27;
+}
+
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 2250;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
