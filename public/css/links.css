@@ -8,22 +8,32 @@
 }
 
 #contact-cursive{
-  background: white url("../svg/cursive/Contact-Cursive.svg") center no-repeat;
+  background: white;
   height: 50px;
   width: 150px;
-  background-size: cover;
-  background-size: 350px 200px;
   padding: 0px 15px 0 15px;
 }
 
-#contact-cursive:hover {
-  background: white url("../svg/print/Contact.svg") center no-repeat;
-  height: 50px;
-  width: 150px;
-  background-size: cover;
-  background-size: 450px 300px;
-  padding: 0px 15px 0 15px;
-} 
+
+.hide{
+  visibility: hidden;
+}
+
+.cursive-text{
+  visibility: hidden;
+  fill:none;
+  stroke:#221F1F;
+  stroke-width:10;
+  stroke-miterlimit:10;
+}
+
+.print-text{
+/*  visibility: hidden;*/
+  fill:none;
+  stroke:#221F1F;
+  stroke-width:10;
+  stroke-miterlimit:10;
+}
 
 #scripts-cursive{
   background: white url("../svg/cursive/Scripts-Cursive.svg") center no-repeat;
