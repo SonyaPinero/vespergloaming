@@ -7,6 +7,14 @@
   margin: 20px auto 0 auto;
 }
 
+.hide{
+  visibility: hidden;
+}
+
+.show{
+  display: inline-block;
+}
+
 #contact-cursive{
   background: white;
   height: 50px;
@@ -14,13 +22,7 @@
   padding: 0px 15px 0 15px;
 }
 
-
-.hide{
-  visibility: hidden;
-}
-
 .cursive-text{
-  visibility: hidden;
   fill:none;
   stroke:#221F1F;
   stroke-width:10;
@@ -28,7 +30,7 @@
 }
 
 .print-text{
-/*  visibility: hidden;*/
+  visibility: hidden;
   fill:none;
   stroke:#221F1F;
   stroke-width:10;
