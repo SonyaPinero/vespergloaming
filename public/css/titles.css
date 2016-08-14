@@ -1,0 +1,12 @@
+#everyday {
+  height: 200px;
+  width: 300px;
+   display: block;
+}
+
+#spirits {
+  height: 200px;
+  width: 300px;
+   display: block;
+  margin-top: -150px;
+}
