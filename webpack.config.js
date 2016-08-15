@@ -27,9 +27,9 @@ module.exports = [{
         loader: 'json-loader'
       },
       {
-        test: /\.svg$/,
+        test: /\.html$/,
         exclude: 'node_modules',
-        loader: 'markup-inline-loader'
+        loader: 'markup-inline'
       }
 
     ]
@@ -62,9 +62,9 @@ module.exports = [{
         loader: 'json-loader'
       },
       {
-        test: /\.svg$/,
+        test: /\.html$/,
         exclude: 'node_modules',
-        loader: 'markup-inline-loader'
+        loader: 'markup-inline'
       }
 
     ]
